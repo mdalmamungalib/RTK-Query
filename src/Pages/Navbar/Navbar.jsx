@@ -27,10 +27,10 @@ const Navbar = () => {
             Users
           </Link>
           <Link
-            to="/services"
+            to="/posts"
             className="text-gray-600 transition hover:text-blue-600"
           >
-            Services
+            Posts
           </Link>
           <Link
             to="/contact"
